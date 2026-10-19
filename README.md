@@ -87,10 +87,6 @@ Kunder med kortere kundeforhold har generelt høyere kundefrafall enn kunder som
 
 Disse funnene viser sammenhenger i datasettet, men dokumenterer ikke nødvendigvis årsakssammenhenger.
 
-## Skjermbilde av dashboardet
-
-![Telecom Customer Analytics Dashboard](Screenshots/dashboard.png)
-
 ## Hvordan åpne prosjektet
 
 1. Installer Microsoft Power BI Desktop.
